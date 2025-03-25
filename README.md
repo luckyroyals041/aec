@@ -1,4 +1,3 @@
-# VI SEM INTERNAL - AEC
 
 ## Experiment 1: Binary Search with Divide and Conquer
 
